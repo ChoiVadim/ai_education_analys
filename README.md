@@ -30,9 +30,11 @@ AI tools **can** improve student performance (44% saw grade improvements), but s
 hw2/
 │
 ├── 📄 README.md              # This file
-├── 📝 BLOG_POST_RU.md        # Blog post in Russian
 ├── 📝 BLOG_POST_EN.md        # Blog post in English
+├── 📝 BLOG_POST_RU.md        # Blog post in Russian
+├── 📝 BLOG_POST_KR.md        # Blog post in Korean
 ├── 📚 SOURCES.md             # All research sources & references
+├── 📱 LINKEDIN_POST.md       # LinkedIn posting guide
 │
 ├── 📊 main.ipynb             # Jupyter notebook with analysis
 │
@@ -72,6 +74,11 @@ hw2/
 
 1. 📖 Читай [**BLOG_POST_RU.md**](BLOG_POST_RU.md) - Полный анализ с данными
 2. 📚 Смотри [**SOURCES.md**](SOURCES.md) - Все источники
+
+**한국어:**
+
+1. 📖 읽기 [**BLOG_POST_KR.md**](BLOG_POST_KR.md) - 데이터 기반 전체 분석
+2. 📚 참고 [**SOURCES.md**](SOURCES.md) - 모든 출처
 
 ### For Developers:
 
@@ -399,14 +406,16 @@ If you use this work academically, please cite:
 
 ## 🔗 Quick Navigation
 
-| Resource                     | Description                                 |
-| ---------------------------- | ------------------------------------------- |
-| [📖 Blog (EN)](BLOG_POST_EN.md) | English version - Full analysis             |
-| [📖 Blog (RU)](BLOG_POST_RU.md) | Russian version - Полный анализ |
-| [📚 Sources](SOURCES.md)        | All research references                     |
-| [📊 Analysis](main.ipynb)       | Jupyter notebook                            |
-| [📁 Plots](plots/)              | All visualizations                          |
-| [📂 Data](data/)                | Raw datasets                                |
+| Resource                        | Description                     |
+| ------------------------------- | ------------------------------- |
+| [📖 Blog (EN)](BLOG_POST_EN.md) | English version                 |
+| [📖 Blog (RU)](BLOG_POST_RU.md) | Russian version - Русский       |
+| [📖 Blog (KR)](BLOG_POST_KR.md) | Korean version - 한국어         |
+| [📱 LinkedIn](LINKEDIN_POST.md) | LinkedIn posting guide          |
+| [📚 Sources](SOURCES.md)        | All research references         |
+| [📊 Analysis](main.ipynb)       | Jupyter notebook                |
+| [📁 Plots](plots/)              | All visualizations              |
+| [📂 Data](data/)                | Raw datasets                    |
 
 ---
 
@@ -424,7 +433,9 @@ If you use this work academically, please cite:
 
 **🚀 AI is transforming education. The data proves it. Use it wisely. 🚀**
 
-[Read English Post](BLOG_POST_EN.md) • [Читать на русском](BLOG_POST_RU.md) • [View Analysis](main.ipynb)
+[Read English Post](BLOG_POST_EN.md) • [Читать на русском](BLOG_POST_RU.md) • [한국어로 읽기](BLOG_POST_KR.md)
+
+[View Analysis](main.ipynb) • [LinkedIn Guide](LINKEDIN_POST.md)
 
 ---
 
